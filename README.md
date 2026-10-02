@@ -45,7 +45,7 @@ A web application for managing hotel rooms and bookings, built with **C# and ASP
 
 **Collaboration:** Developed with [ghazalalsharif](https://github.com/ghazalalsharif). The project link points to our original shared repository.
 
-### [Personal Budget Management System ↗](https://github.com/ghazalalsharif/Personal-Budget-Management-System)
+### [Personal Budget Management System ↗](https://github.com/niha-hameed/Personal-Budget-Management-System)
 
 A desktop application built with **C# and Windows Forms** for recording expenses and organizing personal budgets.
 
@@ -60,7 +60,7 @@ A desktop application built with **C# and Windows Forms** for recording expenses
 
 **My role:** I developed this project, including the desktop interfaces, transaction management, budget controls, and data visualization.
 
-[View source code](https://github.com/ghazalalsharif/Personal-Budget-Management-System) — currently hosted in the linked repository under ghazalalsharif's account.
+[View source code](https://github.com/niha-hameed/Personal-Budget-Management-System) — my portfolio copy, forked from the original repository.
 
 ## 🧰 Technical foundation
 
