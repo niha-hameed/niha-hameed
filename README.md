@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Nihal Hameed Alharbi 👋
 
-<!--
-**niha-hameed/niha-hameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student
 
-Here are some ideas to get you started:
+I build practical software projects and develop my programming skills through hands-on work and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Studying **Computer Science**.
+- Working with **C#** and **Python**.
+- Gaining experience in web applications, object-oriented programming, and problem-solving.
+
+## Skills & Technologies
+
+| Area | Technologies |
+| --- | --- |
+| Programming | C#, Python |
+| Web development | ASP.NET Web Forms |
+| Concepts | Object-oriented programming, data structures |
+
+## Featured Project
+
+### [Hotel Room Booking System](https://github.com/ghazalalsharif/Hotel-Room-Booking-System)
+
+A hotel room booking application built with **C# and ASP.NET Web Forms**.
+
+**My contribution:** I contributed to all parts of the project in collaboration with a teammate, including user interfaces, room management, booking functionality, authentication, and statistics.
+
+The application includes:
+
+- User registration and sign-in.
+- Room management and availability.
+- Adding and editing bookings.
+- A booking dashboard and statistics pages.
+
+**Team project:** Developed with [ghazalalsharif](https://github.com/ghazalalsharif). The link above leads to our project's original repository.
+
+## Find Me
+
+[GitHub](https://github.com/niha-hameed)
