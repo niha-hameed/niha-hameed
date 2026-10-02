@@ -13,7 +13,7 @@ Building practical applications, one project at a time.
 ![Python](https://img.shields.io/badge/Python-4338CA?style=for-the-badge)
 ![ASP.NET Web Forms](https://img.shields.io/badge/ASP.NET_Web_Forms-312E81?style=for-the-badge)
 
-[Explore my featured project](https://github.com/ghazalalsharif/Hotel-Room-Booking-System)
+[Explore my projects](#-featured-projects)
 
 </div>
 
@@ -25,10 +25,10 @@ I'm **Nihal**, a Computer Science student developing my skills through hands-on 
 
 - **Programming languages I have learned:** C#, JavaScript, C++, and Python
 - **Web fundamentals:** HTML and CSS
-- **Project experience:** ASP.NET Web Forms applications
+- **Project experience:** ASP.NET Web Forms and Windows Forms applications
 - **Foundations:** Object-oriented programming and data structures
 
-## 🏨 Featured project
+## 🚀 Featured projects
 
 ### [Hotel Room Booking System ↗](https://github.com/ghazalalsharif/Hotel-Room-Booking-System)
 
@@ -45,6 +45,23 @@ A web application for managing hotel rooms and bookings, built with **C# and ASP
 
 **Collaboration:** Developed with [ghazalalsharif](https://github.com/ghazalalsharif). The project link points to our original shared repository.
 
+### [Personal Budget Management System ↗](https://github.com/ghazalalsharif/Personal-Budget-Management-System)
+
+A desktop application built with **C# and Windows Forms** for recording expenses and organizing personal budgets.
+
+| Feature | Purpose |
+| :--- | :--- |
+| 💳 Transactions | Record dates, amounts, and expense categories |
+| 🏷️ Categories | Choose a category or enter a custom one |
+| 📅 Date filters | Search transactions within a date range |
+| 🥧 Charts | Display category totals in a pie chart |
+| 🎯 Budgets | Adjust category budgets and show threshold alerts |
+| 💾 File storage | Save transactions and budgets in CSV files |
+
+**My role:** I developed this project, including the desktop interfaces, transaction management, budget controls, and data visualization.
+
+[View source code](https://github.com/ghazalalsharif/Personal-Budget-Management-System) — currently hosted in the linked repository under ghazalalsharif's account.
+
 ## 🧰 Technical foundation
 
 | Area | Experience |
@@ -52,6 +69,8 @@ A web application for managing hotel rooms and bookings, built with **C# and ASP
 | Programming | C#, JavaScript, C++, Python |
 | Web fundamentals | HTML, CSS |
 | Web applications | ASP.NET Web Forms |
+| Desktop applications | Windows Forms |
+| Data handling | CSV file storage, LINQ, charts |
 | Software design | Object-oriented programming |
 | Computer science | Data structures and problem-solving |
 
