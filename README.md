@@ -1,40 +1,60 @@
-# Hi, I'm Nihal Hameed Alharbi 👋
+<div align="center">
 
-### Computer Science Student
+# Nihal Hameed Alharbi
+### Computer Science Student · Software Development
 
-I build practical software projects and develop my programming skills through hands-on work and collaboration.
+Building practical applications, one project at a time.
 
-## About Me
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-4338CA?style=for-the-badge)
+![ASP.NET Web Forms](https://img.shields.io/badge/ASP.NET_Web_Forms-312E81?style=for-the-badge)
 
-- Studying **Computer Science**.
-- Working with **C#** and **Python**.
-- Gaining experience in web applications, object-oriented programming, and problem-solving.
+[Explore my featured project](https://github.com/ghazalalsharif/Hotel-Room-Booking-System)
 
-## Skills & Technologies
+</div>
 
-| Area | Technologies |
-| --- | --- |
+---
+
+## 👩‍💻 About me
+
+I'm **Nihal**, a Computer Science student developing my skills through hands-on projects and teamwork. I enjoy turning ideas into working applications and exploring how their interfaces and logic fit together.
+
+- **Languages I work with:** C# and Python
+- **Project experience:** ASP.NET Web Forms applications
+- **Foundations:** Object-oriented programming and data structures
+
+## 🏨 Featured project
+
+### [Hotel Room Booking System ↗](https://github.com/ghazalalsharif/Hotel-Room-Booking-System)
+
+A web application for managing hotel rooms and bookings, built with **C# and ASP.NET Web Forms**.
+
+| Feature | Purpose |
+| :--- | :--- |
+| 🔐 User accounts | Registration and sign-in |
+| 🛏️ Rooms | Room management and availability |
+| 📅 Bookings | Adding and editing reservations |
+| 📊 Dashboard | Booking overview and statistics |
+
+**My role:** I contributed to all parts of the project, including the interfaces, room management, booking functionality, authentication, and statistics.
+
+**Collaboration:** Developed with [ghazalalsharif](https://github.com/ghazalalsharif). The project link points to our original shared repository.
+
+## 🧰 Technical foundation
+
+| Area | Experience |
+| :--- | :--- |
 | Programming | C#, Python |
-| Web development | ASP.NET Web Forms |
-| Concepts | Object-oriented programming, data structures |
+| Web applications | ASP.NET Web Forms |
+| Software design | Object-oriented programming |
+| Computer science | Data structures and problem-solving |
 
-## Featured Project
+---
 
-### [Hotel Room Booking System](https://github.com/ghazalalsharif/Hotel-Room-Booking-System)
+<div align="center">
 
-A hotel room booking application built with **C# and ASP.NET Web Forms**.
+**Learning through building. Growing through collaboration.**
 
-**My contribution:** I contributed to all parts of the project in collaboration with a teammate, including user interfaces, room management, booking functionality, authentication, and statistics.
+[Browse the project code](https://github.com/ghazalalsharif/Hotel-Room-Booking-System) · [My GitHub](https://github.com/niha-hameed)
 
-The application includes:
-
-- User registration and sign-in.
-- Room management and availability.
-- Adding and editing bookings.
-- A booking dashboard and statistics pages.
-
-**Team project:** Developed with [ghazalalsharif](https://github.com/ghazalalsharif). The link above leads to our project's original repository.
-
-## Find Me
-
-[GitHub](https://github.com/niha-hameed)
+</div>
